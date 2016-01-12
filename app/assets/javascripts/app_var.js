@@ -1,0 +1,1 @@
+window.appVar = true;
